@@ -1,2 +1,2 @@
 # cocode
-Real-time code editor using React, Node Js, Web sockets 
+Real-time, Collaborative code editor using React, Node Js, Web sockets 
